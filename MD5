@@ -1,8 +1,10 @@
-145f67e95c73e686865ba3f489039caa *DESCRIPTION
-2bef7de5f89027734c6cb587d3ae6e39 *NAMESPACE
-34e3801cb4c0b7888dc7ac798de32165 *R/BiMaUmisc-package.R
+5774b23dd08bc22e406b4dd5789495a0 *DESCRIPTION
+463a02712b4b818338145f2a5c5ed9b1 *NAMESPACE
+65f4288145a43eece61d997c55fc89aa *R/BiMaUmisc-package.R
+758f62937c447c678d25b9f336399b40 *R/find.test.R
 06da5cc2907952cc31535ca189fbaaad *R/show.p.R
 307296006da15e8a178cd11b3f30faa1 *R/survival.plot.R
-9c79714ea5737c4744a638be4d9a4099 *man/BiMaUmisc-package.Rd
+9bf38078abaeb67db23dbb9449eeed35 *man/BiMaUmisc-package.Rd
+5575ecf9d48c5f06ce0ccb738e8119e7 *man/find.test.Rd
 93ba56289b1752eaf98e90c244d0d1db *man/show.p.Rd
 3d98297993c18e1e5698b730385cfade *man/survival.plot.Rd
